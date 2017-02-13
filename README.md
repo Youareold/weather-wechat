@@ -25,7 +25,3 @@ open localhost:3000
 - [Less](http://lesscss.org/)
 - [ESLint](http://eslint.org/)
 
-
-### Api
-
-- [doc](/doc/README.md)
